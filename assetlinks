@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.flutterflow.almaa.twa",
+      "sha256_cert_fingerprints": [
+        "83:34:4B:E9:C9:74:8F:9E:24:6A:39:E0:9B:54:35:57:82:27:B8:C6:31:F0:C4:47:E7:B2:77:18:1C:10:AA:AE"
+      ]
+    }
+  }
+]
